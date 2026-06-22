@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>BuildQuest Leaderboard</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;700;800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="embers" id="embers" aria-hidden="true"></div>
+
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <span class="brand-flame">🔥</span>
+      <div class="brand-text">
+        <h1>BuildQuest <span>Leaderboard</span></h1>
+        <p class="tagline">6 weeks. One quest board. Every team's climb, tracked live.</p>
+      </div>
+    </div>
+    <div class="updated" id="updated">Loading...</div>
+  </div>
+</header>
+
+<nav class="week-tabs" id="weekTabs" aria-label="Select week"></nav>
+
+<main>
+  <section class="podium-wrap" id="podiumWrap">
+    <div class="podium" id="podium"></div>
+  </section>
+
+  <section class="board">
+    <div class="board-controls">
+      <input id="search" class="search" type="search" placeholder="Search a team..." autocomplete="off" />
+      <select id="trackFilter" class="track-filter">
+        <option value="">All tracks</option>
+      </select>
+    </div>
+
+    <div class="table-wrap">
+      <table id="boardTable">
+        <thead>
+          <tr>
+            <th class="col-rank">Rank</th>
+            <th class="col-team">Team</th>
+            <th class="col-track">Track</th>
+            <th class="col-points">Points</th>
+          </tr>
+        </thead>
+        <tbody id="boardBody"></tbody>
+      </table>
+      <p class="empty-state" id="emptyState" hidden></p>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <p>Synced from the team's weekly tracking sheet · Points table: live sessions, mini-challenges, deploys, blog posts, PR merges, build nights, mentor slots &amp; Demo Day.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
