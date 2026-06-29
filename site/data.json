@@ -1,324 +1,394 @@
 {
-  "event_name": "AWS Leaderboard",
+  "event_name": "BuildQuest Leaderboard",
   "num_weeks": 6,
-  "current_week": 1,
-  "last_updated": "2026-06-23",
+  "current_week": 2,
+  "last_updated": "2026-06-29",
   "teams": [
     {
       "rank": 1,
-      "team_name": "aura",
-      "track": "DevOps + Cloud",
-      "weekly": [
-        115.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 115.0
-    },
-    {
-      "rank": 2,
-      "team_name": "Cipher",
-      "track": "AI+ Cloud",
-      "weekly": [
-        90.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 90.0
-    },
-    {
-      "rank": 2,
       "team_name": "Prompt2Cloud",
       "track": "AI+ Cloud",
       "weekly": [
         90.0,
-        0.0,
+        205.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 90.0
+      "total": 295.0
     },
     {
-      "rank": 4,
-      "team_name": "AWS Techies",
-      "track": "Fullstack + Cloud",
+      "rank": 2,
+      "team_name": "Dominators",
+      "track": "AI+ Cloud",
       "weekly": [
         85.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 85.0
-    },
-    {
-      "rank": 5,
-      "team_name": "Status-200",
-      "track": "DevOps + Cloud",
-      "weekly": [
-        83.3,
-        0.0,
+        165.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 83.3
+      "total": 250.0
     },
     {
-      "rank": 6,
+      "rank": 3,
       "team_name": "Hackherz",
       "track": "AI+ Cloud",
       "weekly": [
         82.5,
-        0.0,
+        162.5,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 82.5
+      "total": 245.0
     },
     {
-      "rank": 6,
+      "rank": 3,
       "team_name": "Future Foundry",
       "track": "AI+ Cloud",
       "weekly": [
         82.5,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 82.5
-    },
-    {
-      "rank": 8,
-      "team_name": "Depth Divers",
-      "track": "AI+ Cloud",
-      "weekly": [
-        80.0,
-        0.0,
+        162.5,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 80.0
+      "total": 245.0
     },
     {
-      "rank": 8,
-      "team_name": "Rising Stars",
-      "track": "AI+ Cloud",
-      "weekly": [
-        80.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 80.0
-    },
-    {
-      "rank": 8,
-      "team_name": "Sisbest",
-      "track": "Fullstack + Cloud",
-      "weekly": [
-        80.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 80.0
-    },
-    {
-      "rank": 11,
-      "team_name": "Dominators",
-      "track": "AI+ Cloud",
-      "weekly": [
-        75.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 75.0
-    },
-    {
-      "rank": 11,
-      "team_name": "CodeDummy",
-      "track": "Fullstack + Cloud",
-      "weekly": [
-        75.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 75.0
-    },
-    {
-      "rank": 11,
-      "team_name": "CodeIT",
-      "track": "DevOps + Cloud",
-      "weekly": [
-        75.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 75.0
-    },
-    {
-      "rank": 14,
-      "team_name": "CakePops",
-      "track": "DevOps + Cloud",
-      "weekly": [
-        70.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 70.0
-    },
-    {
-      "rank": 15,
-      "team_name": "Slayyers",
-      "track": "Cybersecurity + Cloud",
-      "weekly": [
-        58.3,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 58.3
-    },
-    {
-      "rank": 16,
+      "rank": 5,
       "team_name": "Beach",
       "track": "AI+ Cloud",
       "weekly": [
         55.0,
-        0.0,
+        180.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 55.0
+      "total": 235.0
+    },
+    {
+      "rank": 6,
+      "team_name": "AWS Techies",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        95.0,
+        130.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 225.0
+    },
+    {
+      "rank": 7,
+      "team_name": "Depth Divers",
+      "track": "AI+ Cloud",
+      "weekly": [
+        95.0,
+        125.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 220.0
+    },
+    {
+      "rank": 8,
+      "team_name": "Cipher",
+      "track": "AI+ Cloud",
+      "weekly": [
+        90.0,
+        127.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 217.5
+    },
+    {
+      "rank": 9,
+      "team_name": "aura",
+      "track": "DevOps + Cloud",
+      "weekly": [
+        95.0,
+        120.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 215.0
+    },
+    {
+      "rank": 10,
+      "team_name": "Rising Stars",
+      "track": "AI+ Cloud",
+      "weekly": [
+        80.0,
+        107.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 187.5
+    },
+    {
+      "rank": 11,
+      "team_name": "Sisbest",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        80.0,
+        106.3,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 186.3
+    },
+    {
+      "rank": 12,
+      "team_name": "Eureka",
+      "track": "AI+ Cloud",
+      "weekly": [
+        70.0,
+        110.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 180.0
+    },
+    {
+      "rank": 13,
+      "team_name": "Status-200",
+      "track": "DevOps + Cloud",
+      "weekly": [
+        93.3,
+        85.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 178.3
+    },
+    {
+      "rank": 14,
+      "team_name": "CodeDummy",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        75.0,
+        97.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 172.5
+    },
+    {
+      "rank": 15,
+      "team_name": "CakePops",
+      "track": "DevOps + Cloud",
+      "weekly": [
+        70.0,
+        95.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 165.0
     },
     {
       "rank": 16,
-      "team_name": "samosa chutney",
-      "track": "Fullstack + Cloud",
+      "team_name": "CodeIT",
+      "track": "DevOps + Cloud",
       "weekly": [
-        55.0,
-        0.0,
+        75.0,
+        80.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 55.0
+      "total": 155.0
     },
     {
-      "rank": 18,
-      "team_name": "CloudTitans",
-      "track": "Fullstack + Cloud",
-      "weekly": [
-        50.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 50.0
-    },
-    {
-      "rank": 19,
-      "team_name": "Niggers",
-      "track": "AI+ Cloud",
-      "weekly": [
-        32.5,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 32.5
-    },
-    {
-      "rank": 20,
+      "rank": 17,
       "team_name": "Zero degree",
       "track": "Fullstack + Cloud",
       "weekly": [
         30.0,
-        0.0,
+        117.5,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 30.0
+      "total": 147.5
     },
     {
-      "rank": 20,
-      "team_name": "Eureka",
+      "rank": 18,
+      "team_name": "samosa chutney",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        55.0,
+        90.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 145.0
+    },
+    {
+      "rank": 19,
+      "team_name": "Code to Cloud",
       "track": "AI+ Cloud",
       "weekly": [
-        30.0,
-        0.0,
+        25.0,
+        95.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 30.0
+      "total": 120.0
     },
     {
       "rank": 20,
+      "team_name": "CloudTitans",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        50.0,
+        45.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 95.0
+    },
+    {
+      "rank": 20,
+      "team_name": "Slayyers",
+      "track": "Cybersecurity + Cloud",
+      "weekly": [
+        58.3,
+        36.7,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 95.0
+    },
+    {
+      "rank": 22,
+      "team_name": "Niggers",
+      "track": "AI+ Cloud",
+      "weekly": [
+        32.5,
+        40.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 72.5
+    },
+    {
+      "rank": 23,
       "team_name": "AWS Avengers",
       "track": "DevOps + Cloud",
       "weekly": [
         30.0,
-        0.0,
+        25.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 30.0
+      "total": 55.0
     },
     {
-      "rank": 23,
+      "rank": 24,
+      "team_name": "Neural Navigators",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        0.0,
+        46.7,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 46.7
+    },
+    {
+      "rank": 25,
+      "team_name": "Builders here",
+      "track": "AI+ Cloud",
+      "weekly": [
+        0.0,
+        40.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 40.0
+    },
+    {
+      "rank": 26,
+      "team_name": "Avengers",
+      "track": "DevOps + Cloud",
+      "weekly": [
+        17.5,
+        17.5,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 35.0
+    },
+    {
+      "rank": 27,
       "team_name": "Codestorm",
       "track": "AI+ Cloud",
       "weekly": [
         28.8,
+        5.0,
         0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 33.8
+    },
+    {
+      "rank": 28,
+      "team_name": "QuadCore",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        10.0,
+        18.8,
         0.0,
         0.0,
         0.0,
@@ -327,7 +397,7 @@
       "total": 28.8
     },
     {
-      "rank": 24,
+      "rank": 29,
       "team_name": "CloudWhisperers",
       "track": "AI+ Cloud",
       "weekly": [
@@ -341,35 +411,49 @@
       "total": 26.7
     },
     {
-      "rank": 25,
-      "team_name": "Code to Cloud",
+      "rank": 30,
+      "team_name": "Dameware",
       "track": "AI+ Cloud",
       "weekly": [
-        25.0,
-        0.0,
+        10.0,
+        12.5,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 25.0
+      "total": 22.5
     },
     {
-      "rank": 26,
-      "team_name": "Avengers",
-      "track": "DevOps + Cloud",
+      "rank": 31,
+      "team_name": "BugSlayers",
+      "track": "AI+ Cloud",
       "weekly": [
-        17.5,
         0.0,
+        20.0,
         0.0,
         0.0,
         0.0,
         0.0
       ],
-      "total": 17.5
+      "total": 20.0
     },
     {
-      "rank": 27,
+      "rank": 32,
+      "team_name": "Team Riya",
+      "track": "Unassigned",
+      "weekly": [
+        0.0,
+        15.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 15.0
+    },
+    {
+      "rank": 32,
       "team_name": "Navigator",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -383,12 +467,12 @@
       "total": 15.0
     },
     {
-      "rank": 28,
-      "team_name": "Certified YapBots",
-      "track": "Fullstack + Cloud",
+      "rank": 34,
+      "team_name": "Team BuildX",
+      "track": "AI+ Cloud",
       "weekly": [
-        12.5,
         0.0,
+        12.5,
         0.0,
         0.0,
         0.0,
@@ -397,21 +481,7 @@
       "total": 12.5
     },
     {
-      "rank": 29,
-      "team_name": "Dameware",
-      "track": "AI+ Cloud",
-      "weekly": [
-        10.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 10.0
-    },
-    {
-      "rank": 29,
+      "rank": 35,
       "team_name": "HackEnds",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -425,7 +495,7 @@
       "total": 10.0
     },
     {
-      "rank": 29,
+      "rank": 35,
       "team_name": "Nari_Coders",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -439,7 +509,21 @@
       "total": 10.0
     },
     {
-      "rank": 29,
+      "rank": 35,
+      "team_name": "Cloud_gazers",
+      "track": "AI+ Cloud",
+      "weekly": [
+        0.0,
+        10.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 10.0
+    },
+    {
+      "rank": 35,
       "team_name": "TechTitans",
       "track": "AI+ Cloud",
       "weekly": [
@@ -453,7 +537,7 @@
       "total": 10.0
     },
     {
-      "rank": 29,
+      "rank": 35,
       "team_name": "aws_builders",
       "track": "AI+ Cloud",
       "weekly": [
@@ -467,7 +551,7 @@
       "total": 10.0
     },
     {
-      "rank": 29,
+      "rank": 35,
       "team_name": "Codex",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -481,7 +565,7 @@
       "total": 10.0
     },
     {
-      "rank": 29,
+      "rank": 35,
       "team_name": "Nexus stack",
       "track": "Unassigned",
       "weekly": [
@@ -495,7 +579,7 @@
       "total": 10.0
     },
     {
-      "rank": 29,
+      "rank": 35,
       "team_name": "Tech Titans",
       "track": "Unassigned",
       "weekly": [
@@ -509,7 +593,7 @@
       "total": 10.0
     },
     {
-      "rank": 29,
+      "rank": 35,
       "team_name": "Array of hope",
       "track": "AI+ Cloud",
       "weekly": [
@@ -523,21 +607,7 @@
       "total": 10.0
     },
     {
-      "rank": 29,
-      "team_name": "QuadCore",
-      "track": "Fullstack + Cloud",
-      "weekly": [
-        10.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 10.0
-    },
-    {
-      "rank": 39,
+      "rank": 44,
       "team_name": "The Last of Us",
       "track": "AI+ Cloud",
       "weekly": [
@@ -551,7 +621,21 @@
       "total": 6.7
     },
     {
-      "rank": 40,
+      "rank": 45,
+      "team_name": "Code Beyond",
+      "track": "AI+ Cloud",
+      "weekly": [
+        0.0,
+        1.7,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 1.7
+    },
+    {
+      "rank": 46,
       "team_name": "Cloud Shout",
       "track": "Unassigned",
       "weekly": [
@@ -565,7 +649,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "THE KRAZY TEAM",
       "track": "AI+ Cloud",
       "weekly": [
@@ -579,35 +663,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
-      "team_name": "BugSlayers",
-      "track": "AI+ Cloud",
-      "weekly": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 0.0
-    },
-    {
-      "rank": 40,
-      "team_name": "Builders here",
-      "track": "AI+ Cloud",
-      "weekly": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 0.0
-    },
-    {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Git happens",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -621,21 +677,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
-      "team_name": "Code Beyond",
-      "track": "AI+ Cloud",
-      "weekly": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 0.0
-    },
-    {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Skygliders",
       "track": "AI+ Cloud",
       "weekly": [
@@ -649,7 +691,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Phoenix",
       "track": "Unassigned",
       "weekly": [
@@ -663,7 +705,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Let's go",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -677,7 +719,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "done n dusted",
       "track": "AI+ Cloud",
       "weekly": [
@@ -691,7 +733,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Heeyy",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -705,7 +747,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "New team",
       "track": "AI+ Cloud",
       "weekly": [
@@ -719,7 +761,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Money Making Barbies",
       "track": "AI+ Cloud",
       "weekly": [
@@ -733,7 +775,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Cloud Scout",
       "track": "AI+ Cloud",
       "weekly": [
@@ -747,7 +789,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Innovaterss",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -761,7 +803,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Team Gunjan",
       "track": "Unassigned",
       "weekly": [
@@ -775,7 +817,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Xyz",
       "track": "Unassigned",
       "weekly": [
@@ -789,7 +831,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Candy",
       "track": "Unassigned",
       "weekly": [
@@ -803,7 +845,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": ".",
       "track": "Unassigned",
       "weekly": [
@@ -817,7 +859,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Byte Force",
       "track": "AI+ Cloud",
       "weekly": [
@@ -831,7 +873,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Team Diksha",
       "track": "Unassigned",
       "weekly": [
@@ -845,7 +887,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Jumbo",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -859,7 +901,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "ABCXYZ",
       "track": "AI+ Cloud",
       "weekly": [
@@ -873,21 +915,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
-      "team_name": "Cloud_gazers",
-      "track": "AI+ Cloud",
-      "weekly": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 0.0
-    },
-    {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Vectrix",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -901,7 +929,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "ctrl alt build",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -915,7 +943,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "HackDivas",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -929,7 +957,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Coding niggas",
       "track": "Unassigned",
       "weekly": [
@@ -943,21 +971,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
-      "team_name": "Team BuildX",
-      "track": "AI+ Cloud",
-      "weekly": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 0.0
-    },
-    {
-      "rank": 40,
+      "rank": 46,
       "team_name": "TechSpire",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -971,7 +985,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "SheDevs",
       "track": "Unassigned",
       "weekly": [
@@ -985,7 +999,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "S-Cubed",
       "track": "AI+ Cloud",
       "weekly": [
@@ -999,7 +1013,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "S3 squad",
       "track": "AI+ Cloud",
       "weekly": [
@@ -1013,7 +1027,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Neural Ninjas",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -1027,7 +1041,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "MindWeavers",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -1041,7 +1055,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "TwinLogic",
       "track": "DevOps + Cloud",
       "weekly": [
@@ -1055,7 +1069,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Team Yahvi",
       "track": "Unassigned",
       "weekly": [
@@ -1069,7 +1083,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Team Prisha",
       "track": "Unassigned",
       "weekly": [
@@ -1083,7 +1097,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Buildnew",
       "track": "AI+ Cloud",
       "weekly": [
@@ -1097,7 +1111,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Dynamite",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -1111,7 +1125,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "chaibiscuit",
       "track": "Unassigned",
       "weekly": [
@@ -1125,21 +1139,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
-      "team_name": "Team Riya",
-      "track": "Unassigned",
-      "weekly": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 0.0
-    },
-    {
-      "rank": 40,
+      "rank": 46,
       "team_name": "KaafiTezLog",
       "track": "AI+ Cloud",
       "weekly": [
@@ -1153,7 +1153,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Rankers",
       "track": "DevOps + Cloud",
       "weekly": [
@@ -1167,21 +1167,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
-      "team_name": "Neural Navigators",
-      "track": "Fullstack + Cloud",
-      "weekly": [
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0,
-        0.0
-      ],
-      "total": 0.0
-    },
-    {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Team Preethi",
       "track": "Unassigned",
       "weekly": [
@@ -1195,7 +1181,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Stack OverSlay",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -1209,7 +1195,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "snap2code",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -1223,7 +1209,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Code & Conquer",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -1237,7 +1223,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Cloud 9ine",
       "track": "AI+ Cloud",
       "weekly": [
@@ -1251,7 +1237,21 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
+      "team_name": "Certified YapBots",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "total": 0.0
+    },
+    {
+      "rank": 46,
       "team_name": "Crazors",
       "track": "AI+ Cloud",
       "weekly": [
@@ -1265,7 +1265,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Infinite Loopers",
       "track": "Unassigned",
       "weekly": [
@@ -1279,7 +1279,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Code 201",
       "track": "Unassigned",
       "weekly": [
@@ -1293,7 +1293,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Alchemists",
       "track": "AI+ Cloud",
       "weekly": [
@@ -1307,7 +1307,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "tomfoolery",
       "track": "AI+ Cloud",
       "weekly": [
@@ -1321,7 +1321,7 @@
       "total": 0.0
     },
     {
-      "rank": 40,
+      "rank": 46,
       "team_name": "Inertia",
       "track": "Cybersecurity + Cloud",
       "weekly": [
