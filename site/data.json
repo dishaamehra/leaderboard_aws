@@ -2,7 +2,7 @@
   "event_name": "BuildQuest Leaderboard",
   "num_weeks": 6,
   "current_week": 5,
-  "last_updated": "2026-07-23",
+  "last_updated": "2026-07-31",
   "teams": [
     {
       "rank": 1,
@@ -48,6 +48,20 @@
     },
     {
       "rank": 4,
+      "team_name": "Sisbest",
+      "track": "Fullstack + Cloud",
+      "weekly": [
+        80.0,
+        90.0,
+        192.5,
+        702.5,
+        851.3,
+        0.0
+      ],
+      "total": 1916.3
+    },
+    {
+      "rank": 5,
       "team_name": "Hackherz",
       "track": "AI+ Cloud",
       "weekly": [
@@ -61,7 +75,7 @@
       "total": 1716.3
     },
     {
-      "rank": 5,
+      "rank": 6,
       "team_name": "Depth Divers",
       "track": "AI+ Cloud",
       "weekly": [
@@ -75,7 +89,7 @@
       "total": 1563.3
     },
     {
-      "rank": 6,
+      "rank": 7,
       "team_name": "Zero degree",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -89,21 +103,35 @@
       "total": 1250.0
     },
     {
-      "rank": 7,
-      "team_name": "Sisbest",
-      "track": "Fullstack + Cloud",
+      "rank": 8,
+      "team_name": "Beach",
+      "track": "AI+ Cloud",
       "weekly": [
-        80.0,
-        90.0,
-        192.5,
-        702.5,
-        51.3,
+        55.0,
+        175.0,
+        125.0,
+        200.0,
+        560.0,
         0.0
       ],
-      "total": 1116.3
+      "total": 1115.0
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "team_name": "aura",
+      "track": "DevOps + Cloud",
+      "weekly": [
+        95.0,
+        120.0,
+        220.0,
+        335.0,
+        270.0,
+        0.0
+      ],
+      "total": 1040.0
+    },
+    {
+      "rank": 10,
       "team_name": "AWS Techies",
       "track": "Fullstack + Cloud",
       "weekly": [
@@ -115,34 +143,6 @@
         0.0
       ],
       "total": 830.0
-    },
-    {
-      "rank": 9,
-      "team_name": "aura",
-      "track": "DevOps + Cloud",
-      "weekly": [
-        95.0,
-        120.0,
-        220.0,
-        335.0,
-        20.0,
-        0.0
-      ],
-      "total": 790.0
-    },
-    {
-      "rank": 10,
-      "team_name": "Beach",
-      "track": "AI+ Cloud",
-      "weekly": [
-        55.0,
-        175.0,
-        125.0,
-        200.0,
-        85.0,
-        0.0
-      ],
-      "total": 640.0
     },
     {
       "rank": 11,
